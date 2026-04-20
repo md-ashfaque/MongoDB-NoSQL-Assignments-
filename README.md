@@ -5,7 +5,7 @@ A collection of MongoDB and NoSQL Assignments, queries, and practical implementa
 ![MongoDB Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&text=MongoDB%20%7C%20NoSQL&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Database%20Project&descAlignY=55&descAlign=50)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=500&lines=+built+by+Md+Ashfaque;MongoDB+%7C+NoSQL+Project;MCA+(D+S%26+AI)" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&width=500&lines=+built+by+Md+Ashfaque;MongoDB+%7C+NoSQL+Project;MCA+(DS+%26+AI)" />
 </p>
 
 ![MongoDB Badge](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb&style=for-the-badge)
